@@ -32,3 +32,14 @@ The program generates a random number, and the player tries to guess it. After e
 **Vamshi B**
 
 **OIBSIP – Java Programming Internship**
+
+## Screenshots
+
+### Title Screen
+![Title Screen](screenshots/title-screen.png)
+
+### Game Play
+![Game Play](screenshots/game-play.png)
+
+### Round Summary
+![Round Summary](screenshots/round-summary.png)
