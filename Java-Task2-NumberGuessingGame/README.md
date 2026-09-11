@@ -43,3 +43,7 @@ The program generates a random number, and the player tries to guess it. After e
 
 ### Round Summary
 ![Round Summary](screenshots/round-summary.png)
+
+## 🎥 Demo Video
+
+[Watch the Number Guessing Game Demo](https://drive.google.com/file/d/1-_RHN6effsxk8RNvYZW0P8c44yNq5w5K/view?usp=drive_link)
